@@ -1,5 +1,6 @@
 streamlit
-tensorflow==2.13.0
+tensorflow
+python==3.12.5
 opencv-python
 numpy
 pillow
