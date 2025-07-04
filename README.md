@@ -1,7 +1,9 @@
 Project Overview
+
 This project is a Streamlit-based web application for detecting blood cells in images. Users can upload an image, and the model will predict the type of blood cell (Platelets, RBC, or WBC) and display a bounding box around the detected object.
 
-Project Process
+Project Process:
+
 1️⃣ Data Collection & Preprocessing
 The dataset consists of images containing three types of blood cells: Platelets, RBCs, and WBCs.
 Each image is labeled with its respective class and bounding box coordinates.
